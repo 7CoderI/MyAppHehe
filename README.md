@@ -25,3 +25,5 @@
 # СКРИНШОТЫ
 
 ![WhatsApp Image 2022-07-06 at 16 37 33](https://user-images.githubusercontent.com/108217026/177539349-0f48a028-65ef-4b29-b50b-cc51c7077621.jpeg)
+![WhatsApp Image 2022-07-06 at 16 37 44](https://user-images.githubusercontent.com/108217026/177539436-90a64240-c30e-4760-8795-a5e3909871c8.jpeg)
+![WhatsApp Image 2022-07-06 at 16 37 55](https://user-images.githubusercontent.com/108217026/177539458-c0ce6cc3-5911-4da3-a569-70078f0fa7de.jpeg)
