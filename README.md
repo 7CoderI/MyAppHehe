@@ -22,5 +22,6 @@
 | QWidget       | Окно приложения        |
 | QApplication  | Приложение             |
 |
-# СКРИНШОТ
-![Uploading WhatsApp Image 2022-07-06 at 16.37.33.jpeg…]()
+# СКРИНШОТЫ
+
+![WhatsApp Image 2022-07-06 at 16 37 33](https://user-images.githubusercontent.com/108217026/177539349-0f48a028-65ef-4b29-b50b-cc51c7077621.jpeg)
